@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'23'
+-sourcepath
+'C:/Users/David/Documents/NetBeansProjects/Main/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/David/Documents/NetBeansProjects/Main/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cuentas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'cuentas 1.0-SNAPSHOT API'
+cuentas
+C:\Users\David\Documents\NetBeansProjects\Main\src\main\java = 1772040906496
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\allclasses-index.html = 1772050029070
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\allpackages-index.html = 1772050029074
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\element-list = 1772050029018
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\help-doc.html = 1772050029097
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\index-all.html = 1772050029090
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\index.html = 1772050029094
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\member-search-index.js = 1772050029078
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\module-search-index.js = 1772050029074
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\overview-tree.html = 1772050029060
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\package-search-index.js = 1772050029076
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\search.html = 1772050029092
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\tag-search-index.js = 1772050029078
+C:\Users\David\Documents\NetBeansProjects\Main\target\reports\apidocs\type-search-index.js = 1772050029076
